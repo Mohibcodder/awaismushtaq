@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <div className="bg-gradient-to-br from-blue-50 to-red-50 min-h-screen">
       <Head>
-        <title>HAMMAD ABBASI | Digital Marketing Expert</title>
+        <title>AWAIS MUSHTAQ | Digital Marketing Expert</title>
         <meta name="description" content="Professional Digital Marketing Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -32,10 +32,10 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
-      <Skills />
+      <Skills /> 
       <Services />
-      <Work />
-      <Testimonials />
+      {/* <Work /> */}
+   
       <ContactForm />
       <Footer />
     </div>

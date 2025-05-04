@@ -37,7 +37,7 @@ const Navbar = () => {
           href="/"
           className="text-2xl font-extrabold bg-gradient-to-r from-indigo-600 via-pink-500 to-red-500 bg-clip-text text-transparent tracking-tight"
         >
-          HAMMAD ABBASI
+          AWAIS MUSHTAQ 
         </Link>
 
         <div className="hidden md:flex space-x-6 font-medium">

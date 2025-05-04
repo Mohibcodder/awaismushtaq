@@ -5,9 +5,9 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-6 md:mb-0">
               <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-red-400 bg-clip-text text-transparent">
-                ABBASI SAHIB
+              AWAIS MUSHTAQ
               </h3>
-              <p className="text-gray-400 mt-2">Digital Marketing Expert</p>
+              <p className="text-gray-400 mt-2">Web Developer</p>
             </div>
             
             <div className="flex flex-col items-center md:items-end">
@@ -29,7 +29,7 @@ const Footer = () => {
                 </a>
               </div>
               <p className="text-gray-400 text-sm">
-                © {new Date().getFullYear()} Alex Carter. All rights reserved.
+                © {new Date().getFullYear()} mohib-innovation. All rights reserved.
               </p>
             </div>
           </div>

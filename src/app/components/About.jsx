@@ -10,8 +10,8 @@ const About = () => {
             </p>
           </div>
   
-          <div className="flex flex-col md:flex-row items-center">
-            <div className="md:w-1/3 mb-10 md:mb-0 flex justify-center" data-aos="fade-right">
+          <div className="flex flex-col md:flex-row items-center justify-center">
+            {/* <div className="md:w-1/3 mb-10 md:mb-0 flex justify-center" data-aos="fade-right">
               <div className="relative w-64 h-64 rounded-lg overflow-hidden shadow-xl">
                 <img
                   src="/hammad1.jpg"
@@ -19,13 +19,13 @@ const About = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-            </div>
+            </div> */}
             <div className="md:w-2/3 md:pl-12" data-aos="fade-left">
               <h3 className="text-2xl font-bold mb-6 text-gray-800">
                 Professional Digital Marketer with 7+ Years of Experience
               </h3>
               <p className="text-gray-600 mb-6">
-                I'm Alex Carter, a passionate digital marketing professional specializing in social media marketing, SEO, and e-commerce solutions. With a proven track record of helping businesses grow their online presence, I combine creativity with data-driven strategies to deliver exceptional results.
+                I'm AWAIS MUSHTAQ, I specialize in crafting responsive, user-friendly websites using HTML, CSS, JavaScript, and Tailwind CSS. My focus is on creating seamless user experiences, modern interfaces, and optimized performance that help businesses stand out online. Whether it’s building landing pages, improving UI/UX, or developing interactive web apps, I deliver solutions that engage audiences and drive results.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 <div className="flex items-start">
