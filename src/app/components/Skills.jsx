@@ -5,8 +5,8 @@ const Skills = () => {
       { name: 'JAVASCRIPT', level: 85, color: 'from-purple-500 to-purple-700' },
       { name: 'TAILWIND CSS', level: 88, color: 'from-green-500 to-green-700' },
       { name: 'BOOTSTRAP', level: 92, color: 'from-yellow-500 to-yellow-700' },
-      { name: 'REACT.JS', level: 87, color: 'from-indigo-500 to-indigo-700' },
-      { name: 'NEXT.JS', level: 83, color: 'from-pink-500 to-pink-700' },
+      // { name: 'REACT.JS', level: 87, color: 'from-indigo-500 to-indigo-700' },
+      // { name: 'NEXT.JS', level: 83, color: 'from-pink-500 to-pink-700' },
       { name: 'PHYTHON', level: 50, color: 'from-teal-500 to-teal-700' },
     ];
   

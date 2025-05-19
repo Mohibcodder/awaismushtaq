@@ -6,7 +6,7 @@ const About = () => {
             <h2 className="text-3xl md:text-4xl font-bold mb-4">About Me</h2>
             <div className="w-20 h-1 bg-gradient-to-r from-blue-600 to-red-600 mx-auto mb-6"></div>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Get to know the person behind the marketing strategies
+              {/* Get to know the person behind the marketing strategies */}
             </p>
           </div>
   
@@ -22,7 +22,7 @@ const About = () => {
             </div> */}
             <div className="md:w-2/3 md:pl-12" data-aos="fade-left">
               <h3 className="text-2xl font-bold mb-6 text-gray-800">
-                Professional Digital Marketer with 7+ Years of Experience
+                Web Developer
               </h3>
               <p className="text-gray-600 mb-6">
                 I'm AWAIS MUSHTAQ, I specialize in crafting responsive, user-friendly websites using HTML, CSS, JavaScript, and Tailwind CSS. My focus is on creating seamless user experiences, modern interfaces, and optimized performance that help businesses stand out online. Whether it’s building landing pages, improving UI/UX, or developing interactive web apps, I deliver solutions that engage audiences and drive results.
